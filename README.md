@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Vraj%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20Certified&descAlignY=58&descColor=e2e8f0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e3a8a&amp;height=200&amp;section=header&amp;text=Vraj%20Patel&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20Certified&amp;descAlignY=58&amp;descColor=e2e8f0" />
 
 </div>
 
@@ -27,23 +27,19 @@ class VrajPatel:
 
 * Designed and deployed a **highly available 3-tier architecture**
 * Used **EC2, Auto Scaling, ALB, VPC**
-* Implemented secure networking (public/private subnets + bastion host)
+* Implemented secure networking with **public/private subnets and bastion host**
 * Integrated **MongoDB Atlas**
 
-🔗 https://github.com/VRAJPATEL-07
-
----
+🔗 [GitHub Repo](https://github.com/VRAJPATEL-07)
 
 ### ⚡ Serverless Notes API
 
-* Built **serverless REST API**
-* Used **AWS Lambda, API Gateway, DynamoDB**
+* Built a **serverless REST API**
+* Used **AWS Lambda, API Gateway, and DynamoDB**
 * Implemented **IAM-based authentication**
 * Fully scalable and cost-efficient
 
-🔗 https://github.com/VRAJPATEL-07
-
----
+🔗 [GitHub Repo](https://github.com/VRAJPATEL-07)
 
 ### 🐳 Dockerized Python App with CI/CD
 
@@ -51,9 +47,7 @@ class VrajPatel:
 * Built CI/CD pipeline using **GitHub Actions**
 * Automated deployment workflow
 
-🔗 https://github.com/VRAJPATEL-07
-
----
+🔗 [GitHub Repo](https://github.com/VRAJPATEL-07)
 
 ### 🌐 Static Website Hosting (S3 + CloudFront)
 
@@ -61,7 +55,7 @@ class VrajPatel:
 * Enabled **HTTPS via CloudFront**
 * Optimized performance and cost
 
-🔗 https://github.com/VRAJPATEL-07
+🔗 [GitHub Repo](https://github.com/VRAJPATEL-07)
 
 ---
 
@@ -99,9 +93,9 @@ Node.js, Express.js, MongoDB, SQL
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VRAJPATEL-07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VRAJPATEL-07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VRAJPATEL-07&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VRAJPATEL-07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
 
 </div>
 
@@ -109,14 +103,14 @@ Node.js, Express.js, MongoDB, SQL
 
 ## 🤝 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/vraj-patel-056081294
-* GitHub: https://github.com/VRAJPATEL-07
+* LinkedIn: [vraj-patel-056081294](https://linkedin.com/in/vraj-patel-056081294)
+* GitHub: [VRAJPATEL-07](https://github.com/VRAJPATEL-07)
 * Email: [vraj.patell2105@gmail.com](mailto:vraj.patell2105@gmail.com)
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e3a8a&amp;height=100&amp;section=footer" />
 
 </div>
