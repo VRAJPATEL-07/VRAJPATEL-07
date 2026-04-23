@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e3a8a&amp;height=200&amp;section=header&amp;text=Vraj%20Patel&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20Certified&amp;descAlignY=58&amp;descColor=e2e8f0" />
+# 👋 Hi, I'm **Vraj Patel**
+
+### ☁️ Cloud & DevOps Engineer · AWS Certified
 
 </div>
 
@@ -8,54 +10,58 @@
 
 ## 🧠 About Me
 
-```python
-class VrajPatel:
-    university  = "CHARUSAT – B.Tech IT"
-    cgpa        = "8.88 / 10.00"
-    location    = "Gujarat, India"
-    focus       = ["Cloud Computing", "DevOps", "AWS"]
-    skills      = ["Scalable Systems", "CI/CD", "Automation"]
-    currently   = "Building cloud-native applications on AWS"
-    goal        = "Cloud Solutions Architect"
+```yaml
+name       : Vraj Patel
+role       : Cloud & DevOps Engineer
+university : CHARUSAT – B.Tech IT (2027)
+cgpa       : 8.88 / 10.00
+location   : Gujarat, India
+focus      : AWS · Cloud Architecture · DevOps
+goal       : Cloud Solutions Architect
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### ☁️ AWS 3-Tier Architecture (SwarnaVeda)
 
-* Designed and deployed a **highly available 3-tier architecture**
-* Used **EC2, Auto Scaling, ALB, VPC**
-* Implemented secure networking with **public/private subnets and bastion host**
-* Integrated **MongoDB Atlas**
+* Designed and deployed scalable 3-tier architecture
+* Used **EC2, ALB, Auto Scaling, VPC**
+* Implemented **public/private subnet security + bastion host**
+* Integrated **MongoDB Atlas database**
 
-🔗 [GitHub Repo](https://github.com/VRAJPATEL-07)
+🔗 https://github.com/VRAJPATEL-07
+
+---
 
 ### ⚡ Serverless Notes API
 
-* Built a **serverless REST API**
-* Used **AWS Lambda, API Gateway, and DynamoDB**
-* Implemented **IAM-based authentication**
-* Fully scalable and cost-efficient
+* Built REST API using **Lambda + API Gateway + DynamoDB**
+* Implemented **IAM-based security**
+* Fully scalable and event-driven
 
-🔗 [GitHub Repo](https://github.com/VRAJPATEL-07)
+🔗 https://github.com/VRAJPATEL-07
 
-### 🐳 Dockerized Python App with CI/CD
+---
+
+### 🐳 Dockerized App with CI/CD
 
 * Containerized application using **Docker**
-* Built CI/CD pipeline using **GitHub Actions**
-* Automated deployment workflow
+* Created CI/CD pipeline using **GitHub Actions**
+* Automated deployment process
 
-🔗 [GitHub Repo](https://github.com/VRAJPATEL-07)
+🔗 https://github.com/VRAJPATEL-07
 
-### 🌐 Static Website Hosting (S3 + CloudFront)
+---
 
-* Hosted website using **Amazon S3**
-* Enabled **HTTPS via CloudFront**
-* Optimized performance and cost
+### 🌐 Static Website Hosting
 
-🔗 [GitHub Repo](https://github.com/VRAJPATEL-07)
+* Hosted using **AWS S3 + CloudFront**
+* Enabled HTTPS and CDN delivery
+* Optimized for performance
+
+🔗 https://github.com/VRAJPATEL-07
 
 ---
 
@@ -82,10 +88,10 @@ Node.js, Express.js, MongoDB, SQL
 
 ## 📜 Certifications
 
-* AWS Certified Cloud Practitioner (CLF-C02)
+* AWS Certified Cloud Practitioner
 * AWS Academy Cloud Foundations
 * AWS Academy Cloud Developing
-* NPTEL – Database Management System
+* NPTEL – DBMS
 
 ---
 
@@ -93,9 +99,9 @@ Node.js, Express.js, MongoDB, SQL
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VRAJPATEL-07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=VRAJPATEL-07&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VRAJPATEL-07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VRAJPATEL-07&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -103,14 +109,10 @@ Node.js, Express.js, MongoDB, SQL
 
 ## 🤝 Connect With Me
 
-* LinkedIn: [vraj-patel-056081294](https://linkedin.com/in/vraj-patel-056081294)
-* GitHub: [VRAJPATEL-07](https://github.com/VRAJPATEL-07)
+* LinkedIn: https://linkedin.com/in/vraj-patel-056081294
+* GitHub: https://github.com/VRAJPATEL-07
 * Email: [vraj.patell2105@gmail.com](mailto:vraj.patell2105@gmail.com)
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e3a8a&amp;height=100&amp;section=footer" />
-
-</div>
+⭐ *Always building scalable cloud systems and learning DevOps practices.*
