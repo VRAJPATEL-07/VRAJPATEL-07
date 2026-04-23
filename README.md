@@ -117,17 +117,6 @@ goal       : Cloud Solutions Architect
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Vraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VRAJPATEL-07&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VRAJPATEL-07&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *Always building scalable cloud systems and learning DevOps practices.*
